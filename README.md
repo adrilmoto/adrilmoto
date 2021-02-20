@@ -3,7 +3,7 @@
 ### 👯 I’m looking to collaborate on project on vue.js.
 ### 📫 How to reach me:
    Mail: roma-motovilov@mail.ru
-   Instagram: @roomahhka
+   Twitter: @roomahhka
    VK: @roomahhka
    Dev.to: @adrilmoto 
 <!--
