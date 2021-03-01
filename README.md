@@ -4,8 +4,6 @@
 ### 📫 How to reach me:
    Mail: roma-motovilov@mail.ru
    Twitter: @roomahhka
-   VK: @roomahhka
-   Dev.to: @adrilmoto 
 <!--
 **adrilmoto/adrilmoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
