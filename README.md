@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m constantly learning and developing in front-end development.
+### 🌱 I’m constantly learning and developing in front-end.
 ### 👯 I’m looking to collaborate on project on vue.js.
 ### 📫 How to reach me:
    Mail: roma-motovilov@mail.ru
