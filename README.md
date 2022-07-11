@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🌱 I’m Middle Sofrware Engineer
-### 👯 I’m working at Liquidifty as Frontend developer on vue.js
+### 👯 I’m working as Frontend developer on vue.js for 2 years
 ### 📫 How to reach me:
    Mail: roma-motovilov@mail.ru
    Twitter: @roomahhka
