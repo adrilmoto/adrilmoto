@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### 🌱 I’m Middle Sofrware Engineer
-### https://www.codewars.com/users/adrilmoto/badges/large
 ### 👯 I’m working as Frontend developer on vue.js for 2 years
 ### 📫 How to reach me:
    Mail: roma-motovilov@mail.ru
