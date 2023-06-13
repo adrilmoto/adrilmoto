@@ -1,9 +1,10 @@
 ### Hi there 👋
-### 🌱 I’m Middle Sofrware Engineer
-### 👯 I’m working as Frontend developer on vue.js for 2 years
+### 🌱 I’m Senior Frontend Developer
+### 🔭 I’m working as Frontend developer on Vue2/3 for 4 years
+### 👯 I’m looking to collaborate on aplication using modern tech with blockchain
 ### 📫 How to reach me:
-   Mail: roma-motovilov@mail.ru
-   Twitter: @roomahhka
+   Mail: info@adrilmoto.com
+   WebSite: adrilmoto.com
 <!--
 **adrilmoto/adrilmoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
