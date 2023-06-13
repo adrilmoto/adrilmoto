@@ -3,8 +3,8 @@
 ### 🔭 I’m working as Frontend developer on Vue2/3 for 4 years
 ### 👯 I’m looking to collaborate on aplication using modern tech with blockchain
 ### 📫 How to reach me:
-   Mail: info@adrilmoto.com
-   WebSite: adrilmoto.com
+ #  Mail: info@adrilmoto.com
+ #  Website: adrilmoto.com
 <!--
 **adrilmoto/adrilmoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
